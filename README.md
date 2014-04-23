@@ -1,2 +1,4 @@
 homebrew-mgs
 ============
+
+homebrew formulae
